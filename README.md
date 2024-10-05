@@ -1,3 +1,4 @@
-# Term2 - AI
+# Term2 - Application Design for Big Data module
 
-Repository for both **BDM1034: Application Design for Big Data** and **BDM3014: Introduction to Artificial Intelligence**.
+Repository for both **BDM1034: Application Design for Big Data** module.
+
